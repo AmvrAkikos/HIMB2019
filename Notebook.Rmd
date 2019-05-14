@@ -1,0 +1,25 @@
+---
+title: "Joan's Notebook"
+output: html_document
+---
+# Day 2 - R Course
+
+## Yesterday's tasks:
+
+* Island Tour
+
+![](/Users/joan/Documents/Hawaii/Notebook/HIMB.jpg)
+
+
+This adoesn´t have be code
+
+```{r}
+#THIS MUST BE R CODE
+print("this will work")
+
+hist(rnorm(100))
+```
+
+
+
+
