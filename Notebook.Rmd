@@ -1,6 +1,6 @@
 ---
 title: "Joan's Notebook"
-output: html_document
+output: github_document
 ---
 # Day 2 - R Course
 
